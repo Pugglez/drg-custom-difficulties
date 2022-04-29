@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_difficulty_docs=self.webpackChunkcustom_difficulty_docs||[]).push([[4396],{3769:function(u){u.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"default"}}')}}]);
