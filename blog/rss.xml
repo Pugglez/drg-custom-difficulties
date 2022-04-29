@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>DRG Custom Difficulty Mod Blog</title>
-        <link>https://Pugglez.github.io/blog</link>
+        <link>https://drg-custom-difficulty.github.io/blog</link>
         <description>DRG Custom Difficulty Mod Blog</description>
         <lastBuildDate>Thu, 28 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Hazard 5 vs Hazard 6]]></title>
-            <link>https://Pugglez.github.io/blog/hazard-5-vs-hazard-6</link>
+            <link>https://drg-custom-difficulty.github.io/blog/hazard-5-vs-hazard-6</link>
             <guid>hazard-5-vs-hazard-6</guid>
             <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[The main things that separate Hazard 6 from Hazard 5 are that 1) enemies spawn more frequently]]></description>
@@ -24,7 +24,7 @@ and 3) enemies are a lot faster (and therefore are a lot more lethal).</p>]]></c
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://Pugglez.github.io/blog/welcome</link>
+            <link>https://drg-custom-difficulty.github.io/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
@@ -35,7 +35,7 @@ and 3) enemies are a lot faster (and therefore are a lot more lethal).</p>]]></c
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://Pugglez.github.io/blog/mdx-blog-post</link>
+            <link>https://drg-custom-difficulty.github.io/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
@@ -44,7 +44,7 @@ and 3) enemies are a lot faster (and therefore are a lot more lethal).</p>]]></c
         </item>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://Pugglez.github.io/blog/long-blog-post</link>
+            <link>https://drg-custom-difficulty.github.io/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
@@ -54,7 +54,7 @@ and 3) enemies are a lot faster (and therefore are a lot more lethal).</p>]]></c
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://Pugglez.github.io/blog/first-blog-post</link>
+            <link>https://drg-custom-difficulty.github.io/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
