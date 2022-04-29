@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_difficulty_docs=self.webpackChunkcustom_difficulty_docs||[]).push([[8824],{6489:function(s){s.exports=JSON.parse('{"permalink":"/drg-custom-difficulties/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

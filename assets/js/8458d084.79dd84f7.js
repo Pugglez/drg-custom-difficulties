@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcustom_difficulty_docs=self.webpackChunkcustom_difficulty_docs||[]).push([[2114],{2939:function(t){t.exports=JSON.parse('{"permalink":"/blog/tags/hazard-5","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

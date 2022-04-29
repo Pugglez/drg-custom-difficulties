@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_difficulty_docs=self.webpackChunkcustom_difficulty_docs||[]).push([[6489],{1281:function(s){s.exports=JSON.parse('{"allTagsPath":"/drg-custom-difficulties/blog/tags","name":"hello","count":2,"permalink":"/drg-custom-difficulties/blog/tags/hello"}')}}]);

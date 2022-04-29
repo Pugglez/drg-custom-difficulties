@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcustom_difficulty_docs=self.webpackChunkcustom_difficulty_docs||[]).push([[3822],{5192:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"hazard 6","count":1,"permalink":"/blog/tags/hazard-6"}')}}]);
